@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @criptovision
-- 👀 I’m interested in developing staking and farming wallets usins the BSC.
-- 🌱 I’m currently learning how to build teh Business Smart Blockchain to run Industrial Projects around the world.
-- 💞️ I’m looking to collaborate on NFT
+- 👋 Hi, we are @criptovision
+- 👀 We are developing the first Descentralized Academic Platform to power and boost DeFi. 
+- 🌱 Currently, we are en beta phase building the VSION Smart Blockchain to run Industrial Projects around the world.
+- 💞️ We are looking into collaborate on power NFT for all industries.
 - 📫 Reach me out at nelson.cabrera@criptovision.com
 
 <!---
